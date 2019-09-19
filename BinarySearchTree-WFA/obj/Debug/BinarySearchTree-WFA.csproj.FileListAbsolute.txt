@@ -1,0 +1,20 @@
+e:\documents\visual studio 2015\Projects\BinarySearchTree-WFA\BinarySearchTree-WFA\bin\Debug\BinarySearchTree-WFA.exe.config
+e:\documents\visual studio 2015\Projects\BinarySearchTree-WFA\BinarySearchTree-WFA\bin\Debug\BinarySearchTree-WFA.exe
+e:\documents\visual studio 2015\Projects\BinarySearchTree-WFA\BinarySearchTree-WFA\bin\Debug\BinarySearchTree-WFA.pdb
+e:\documents\visual studio 2015\Projects\BinarySearchTree-WFA\BinarySearchTree-WFA\obj\Debug\BinarySearchTree_WFA.FormBST.resources
+e:\documents\visual studio 2015\Projects\BinarySearchTree-WFA\BinarySearchTree-WFA\obj\Debug\BinarySearchTree_WFA.Properties.Resources.resources
+e:\documents\visual studio 2015\Projects\BinarySearchTree-WFA\BinarySearchTree-WFA\obj\Debug\BinarySearchTree-WFA.csproj.GenerateResource.Cache
+e:\documents\visual studio 2015\Projects\BinarySearchTree-WFA\BinarySearchTree-WFA\obj\Debug\BinarySearchTree-WFA.exe
+e:\documents\visual studio 2015\Projects\BinarySearchTree-WFA\BinarySearchTree-WFA\obj\Debug\BinarySearchTree-WFA.pdb
+e:\documents\visual studio 2015\Projects\BinarySearchTree-WFA\BinarySearchTree-WFA\obj\Debug\BinarySearchTree_WFA.ButtonClass.resources
+e:\documents\visual studio 2015\Projects\BinarySearchTree-WFA\BinarySearchTree-WFA\obj\Debug\BinarySearchTree-WFA.csprojResolveAssemblyReference.cache
+D:\Yoo Libraries\Felis Documents\Visual Studio 2015\Projects\BinarySearchTree-WFA\BinarySearchTree-WFA\bin\Debug\BinarySearchTree-WFA.exe.config
+D:\Yoo Libraries\Felis Documents\Visual Studio 2015\Projects\BinarySearchTree-WFA\BinarySearchTree-WFA\obj\Debug\BinarySearchTree-WFA.exe
+D:\Yoo Libraries\Felis Documents\Visual Studio 2015\Projects\BinarySearchTree-WFA\BinarySearchTree-WFA\obj\Debug\BinarySearchTree-WFA.pdb
+D:\Yoo Libraries\Felis Documents\Visual Studio 2015\Projects\BinarySearchTree-WFA\BinarySearchTree-WFA\bin\Debug\BinarySearchTree-WFA.exe
+D:\Yoo Libraries\Felis Documents\Visual Studio 2015\Projects\BinarySearchTree-WFA\BinarySearchTree-WFA\bin\Debug\BinarySearchTree-WFA.pdb
+D:\Yoo Libraries\Felis Documents\Visual Studio 2015\Projects\BinarySearchTree-WFA\BinarySearchTree-WFA\obj\Debug\BinarySearchTree-WFA.csprojResolveAssemblyReference.cache
+D:\Yoo Libraries\Felis Documents\Visual Studio 2015\Projects\BinarySearchTree-WFA\BinarySearchTree-WFA\obj\Debug\BinarySearchTree_WFA.ButtonClass.resources
+D:\Yoo Libraries\Felis Documents\Visual Studio 2015\Projects\BinarySearchTree-WFA\BinarySearchTree-WFA\obj\Debug\BinarySearchTree_WFA.FormBST.resources
+D:\Yoo Libraries\Felis Documents\Visual Studio 2015\Projects\BinarySearchTree-WFA\BinarySearchTree-WFA\obj\Debug\BinarySearchTree_WFA.Properties.Resources.resources
+D:\Yoo Libraries\Felis Documents\Visual Studio 2015\Projects\BinarySearchTree-WFA\BinarySearchTree-WFA\obj\Debug\BinarySearchTree-WFA.csproj.GenerateResource.Cache
